@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\ActorTicTacToeApplication\Game.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\Game.Interfaces.deps.json
+C:\Users\Administrator\source\repos\ActorTicTacToeApplication\Game.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\Game.Interfaces.dll
+C:\Users\Administrator\source\repos\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Game.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Game.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Game.Interfaces.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Game.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\ActorTicTacToeApplication\Game.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\Game.Interfaces.pdb
+C:\Users\Administrator\source\repos\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Game.Interfaces.dll
+C:\Users\Administrator\source\repos\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Game.Interfaces.pdb
+E:\Bizruntime\c#.netprograms\ActorTicTacToeApplication\Game.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\Game.Interfaces.deps.json
+E:\Bizruntime\c#.netprograms\ActorTicTacToeApplication\Game.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\Game.Interfaces.dll
+E:\Bizruntime\c#.netprograms\ActorTicTacToeApplication\Game.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\Game.Interfaces.pdb
+E:\Bizruntime\c#.netprograms\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Game.Interfaces.csproj.CoreCompileInputs.cache
+E:\Bizruntime\c#.netprograms\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Game.Interfaces.AssemblyInfoInputs.cache
+E:\Bizruntime\c#.netprograms\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Game.Interfaces.AssemblyInfo.cs
+E:\Bizruntime\c#.netprograms\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Game.Interfaces.dll
+E:\Bizruntime\c#.netprograms\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Game.Interfaces.pdb

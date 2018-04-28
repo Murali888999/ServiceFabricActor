@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\ActorTicTacToeApplication\Player.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\Player.Interfaces.deps.json
+C:\Users\Administrator\source\repos\ActorTicTacToeApplication\Player.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\Player.Interfaces.dll
+C:\Users\Administrator\source\repos\ActorTicTacToeApplication\Player.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\Player.Interfaces.pdb
+C:\Users\Administrator\source\repos\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Player.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Player.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Player.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Player.Interfaces.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Player.Interfaces.dll
+C:\Users\Administrator\source\repos\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Player.Interfaces.pdb
+E:\Bizruntime\c#.netprograms\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Player.Interfaces.csproj.CoreCompileInputs.cache
+E:\Bizruntime\c#.netprograms\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Player.Interfaces.AssemblyInfoInputs.cache
+E:\Bizruntime\c#.netprograms\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Player.Interfaces.AssemblyInfo.cs
